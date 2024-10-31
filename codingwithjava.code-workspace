@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic",
+    "liveServer.settings.multiRootWorkspaceName": "Amazon_poject",
+    "java.debug.settings.onBuildFailureProceed": true
+  }
+}
